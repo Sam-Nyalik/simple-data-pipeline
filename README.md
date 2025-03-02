@@ -4,7 +4,7 @@ This is a simple data pipeline that extracts raw sales data from a CSV file, tra
 
 ## Technologies
 
-Python
+Python  
 SQLite
 
 ## Installation
